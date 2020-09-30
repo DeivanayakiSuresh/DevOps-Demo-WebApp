@@ -13,8 +13,8 @@ public class acat {
 	//public WebDriver driver;
 	public WebDriverWait wait;
 	//Deisur - updated IP address for Assignment 2
-	public String URL = "http://35.247.85.133:8080/ProdWebapp";
-	public String URL1 = "http://35.247.85.133:8080/ProdWebapp/avncreatepage.jsp";
+	public String URL = "http://34.83.233.51:8080/ProdWebapp";
+	public String URL1 = "http://34.83.233.51:8080/ProdWebapp/avncreatepage.jsp";
 	//public String URL = "http://localhost:8080/AVNCommunication-1.0/avnlogin.jsp";
 	//public String URL1 = "http://localhost:8080/AVNCommunication-1.0/avncreatepage.jsp";
 	
