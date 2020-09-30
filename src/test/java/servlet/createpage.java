@@ -18,7 +18,7 @@ public class createpage extends HttpServlet {
 		{
 			Class.forName("org.postgresql.Driver");
 			//deisur updated ip for assignment 2
-			String jdbcUrl="jdbc:postgresql://35.247.33.20:5432/postgres";
+			String jdbcUrl="jdbc:postgresql://35.197.37.85:5432/postgres";
 			String username="postgres";
 			String password="password";
 		
