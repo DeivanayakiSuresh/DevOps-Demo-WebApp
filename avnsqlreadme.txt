@@ -1,4 +1,4 @@
-SQL Commands
+SQL Commands - Test for POLL SCM
 ------------
 
 SELECT  *FROM avn;
